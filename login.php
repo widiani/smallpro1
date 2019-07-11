@@ -54,7 +54,7 @@ if(isset($_POST['login'])){
         <p>&larr; <a href="index.php">Home</a>
 
         <h4>Masuk ke Pesbuk</h4>
-        <p>Belum punya akun? <a href="register.php">Daftar di sini</a></p>
+        <p><a href="register.php">Belum punya akun? Daftar di sini</a></p>
 
         <form action="" method="POST">
 
@@ -77,6 +77,7 @@ if(isset($_POST['login'])){
 
         <div class="col-md-6">
             <!-- isi dengan sesuatu di sini -->
+	 	<img class="img img-responsive" src="img/connect.png" />
         </div>
 
     </div>
