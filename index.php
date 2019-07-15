@@ -14,7 +14,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-8">
-                        <h1>Selamat datang di Sosial Media Rumah Widiani </h1>
+                        <h1>Selamat datang di Sosial Media Widiani </h1>
 						 <p>Ayo bergabung</p>	
                          <p>Bergabunglah bersama jutaan orang lainnya.....</p>
                     </div>
